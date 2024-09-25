@@ -13,7 +13,7 @@ public class ApiController {
 	
 	@GetMapping
 	public ResponseEntity<ApiResponse> hello() {
-		return ResponseEntity.ok(new ApiResponse("Hello Aws!"));
+		return ResponseEntity.ok(new ApiResponse("Hello Aws! "));
 	}
 
 }
