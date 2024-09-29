@@ -1,1 +1,1 @@
-# spring-aws elastic bean
+# spring-aws elastic 
